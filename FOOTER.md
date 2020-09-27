@@ -1,6 +1,9 @@
+<center>
+  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://secr.tistory.com/)](https://secr.tistory.com/) 
 [![Naver Badge](https://img.shields.io/badge/-email-brightgreen?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seolnavy@naver.com)](mailto:seolnavy@naver.com)
 
+</center>
 <!--
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
