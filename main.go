@@ -209,7 +209,7 @@ func main() {
 
 	// append to README-1.md && rename to README.md
 	header, _ := os.OpenFile(headerFile, os.O_WRONLY|os.O_APPEND, 0755)
-	footer, _ := os.OpenFile(footerFile, os.O_WRONLY|os.O_APPEND, 0755)
+	footer, _ := os.OpenFile(footerFile, os.O_CREATE|os.O_RDWR, 0755)
 	defer header.Close()
 	defer footer.Close()
 
