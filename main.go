@@ -60,7 +60,7 @@ GraphQL:
 const (
 	latestRepoCnt    = 5
 	enableSortByName = true
-	originReadmeFile = "./README-1.md"
+	originReadmeFile = "./HEADER.md"
 	ciCommitID       = "actions-user"
 )
 
