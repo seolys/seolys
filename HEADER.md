@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-
-Make bug with ❤️
-
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=seolys alt=seolys/> </p>
 
 
