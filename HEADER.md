@@ -2,6 +2,13 @@
 
 ### Hi there 👋
 
+#### 🧑🏻‍💻  Web Developer. 
+
+[![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#) 
+[![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#) 
+
+
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=seolys alt=seolys/> </p>
 
 
