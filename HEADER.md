@@ -8,10 +8,6 @@
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#) 
 
 
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=seolys alt=seolys/> </p>
-
-
 <!--
 **seolys/seolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
