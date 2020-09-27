@@ -25,7 +25,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 organization_graphql = """
-  organization(id: "seolnavy") {
+  organization(id: "seolys") {
     repositories(first: 100, privacy: PUBLIC) {
       pageInfo {
         hasNextPage
