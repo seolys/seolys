@@ -27,7 +27,7 @@ jobs:
 
     - name: Generate README
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        README_TOKEN: ${{ secrets.README_TOKEN }}
       run: |-
         ./run_me
         cat README.md
