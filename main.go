@@ -216,7 +216,7 @@ func main() {
 	_, _ = header.WriteString(markdownTableHeaderTmpl)
 	_, _ = header.Write(buf.Bytes())
 
-	footerStat, err := footer.Stat() // 파일 정보 가져오기
+	footerStat, _ := footer.Stat() // 파일 정보 가져오기
 	footer.Seek(0, os.SEEK_SET)
 	var footerByte = make([]byte, footerStat.Size())
 	footer.Read(footerByte)
