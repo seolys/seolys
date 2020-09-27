@@ -138,16 +138,6 @@ def fetch_tils():
     ).json()
 
 
-def fetch_blog_entries():
-    entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
-    return [
-        {
-            "title": entry["title"],
-            "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
-        }
-        for entry in entries
-    ]
 
 
 if __name__ == "__main__":
@@ -162,6 +152,10 @@ if __name__ == "__main__":
         ]
     )
     readme_contents = readme.open().read()
+
+
+
+
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # Write out full project-releases.md file
@@ -195,25 +189,5 @@ if __name__ == "__main__":
         inline=True,
     )
     project_releases.open("w").write(project_releases_content)
-
-    tils = fetch_tils()
-    tils_md = "\n\n".join(
-        [
-            "[{title}](https://til.simonwillison.net/til/til/{path}) - {created_at}".format(
-                title=til["title"],
-                path=til["path"],
-                url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
-            )
-            for til in tils
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "tils", tils_md)
-
-    entries = fetch_blog_entries()[:5]
-    entries_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     readme.open("w").write(rewritten)
