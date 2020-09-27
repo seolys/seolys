@@ -183,6 +183,7 @@ var markdownTableHeaderTmpl = `
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 `
+var markdownTableFooterTmpl = "\n\n";
 
 func main() {
 	// authenticate to github
@@ -215,6 +216,7 @@ func main() {
 
 	_, _ = header.WriteString(markdownTableHeaderTmpl)
 	_, _ = header.Write(buf.Bytes())
+	_, _ = header.WriteString(markdownTableFooterTmpl)
 
 	footerStat, _ := footer.Stat() // 파일 정보 가져오기
 	footer.Seek(0, os.SEEK_SET)
