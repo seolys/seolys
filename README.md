@@ -27,19 +27,21 @@ Here are some ideas to get you started:
 
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [TIL](https://github.com/seolys/TIL) | [master](https://github.com/seolys/TIL/tree/master) |[41e8340](https://github.com/seolys/TIL/commit/41e83405c8bfb1f2c95b5dbbb39300e54e87e631) | [@seolys](https://github.com/seolys) |3 hours 54 minutes | ![](https://img.shields.io/badge/language-unknown-default.svg?style=flat-square)|
-| [node-graphql-codelab-study](https://github.com/seolys/node-graphql-codelab-study) | [master](https://github.com/seolys/node-graphql-codelab-study/tree/master) |[04886ab](https://github.com/seolys/node-graphql-codelab-study/commit/04886ab9c7bc44e1dee36c391140423ae0c9adb3) | [@seolys](https://github.com/seolys) |345 hours 41 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
-| [react-do-it-study](https://github.com/seolys/react-do-it-study) | [master](https://github.com/seolys/react-do-it-study/tree/master) |[14c7045](https://github.com/seolys/react-do-it-study/commit/14c7045b92e3b88d5d32bfa4a87f9c203acdd255) | [@seolys](https://github.com/seolys) |382 hours 41 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
-| [java-bowling](https://github.com/seolys/java-bowling) | [zorba87](https://github.com/seolys/java-bowling/tree/zorba87) |[e782d1c](https://github.com/seolys/java-bowling/commit/e782d1cfe160526d81e0b7838ac811fbb19ac02c) | [@zorba87](https://github.com/zorba87) |34 hours 15 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [seolys](https://github.com/seolys/seolys) | [master](https://github.com/seolys/seolys/tree/master) |[3967816](https://github.com/seolys/seolys/commit/39678161f23d85bd5d6a4943e96a9d6a0006e1c9) | [@actions-user](https://github.com/actions-user) |0 hours 2 minutes | ![](https://img.shields.io/badge/language-Go-default.svg?style=flat-square)|
+| [seolys](https://github.com/seolys/seolys) | [master](https://github.com/seolys/seolys/tree/master) |[8510b0f](https://github.com/seolys/seolys/commit/8510b0f8297059ed6977e355a747a63446c6e826) | [@seolys](https://github.com/seolys) |0 hours 0 minutes | ![](https://img.shields.io/badge/language-Go-default.svg?style=flat-square)|
+| [TIL](https://github.com/seolys/TIL) | [master](https://github.com/seolys/TIL/tree/master) |[41e8340](https://github.com/seolys/TIL/commit/41e83405c8bfb1f2c95b5dbbb39300e54e87e631) | [@seolys](https://github.com/seolys) |3 hours 56 minutes | ![](https://img.shields.io/badge/language-unknown-default.svg?style=flat-square)|
+| [node-graphql-codelab-study](https://github.com/seolys/node-graphql-codelab-study) | [master](https://github.com/seolys/node-graphql-codelab-study/tree/master) |[04886ab](https://github.com/seolys/node-graphql-codelab-study/commit/04886ab9c7bc44e1dee36c391140423ae0c9adb3) | [@seolys](https://github.com/seolys) |345 hours 42 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
+| [react-do-it-study](https://github.com/seolys/react-do-it-study) | [master](https://github.com/seolys/react-do-it-study/tree/master) |[14c7045](https://github.com/seolys/react-do-it-study/commit/14c7045b92e3b88d5d32bfa4a87f9c203acdd255) | [@seolys](https://github.com/seolys) |382 hours 43 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
+| [java-bowling](https://github.com/seolys/java-bowling) | [zorba87](https://github.com/seolys/java-bowling/tree/zorba87) |[e782d1c](https://github.com/seolys/java-bowling/commit/e782d1cfe160526d81e0b7838ac811fbb19ac02c) | [@zorba87](https://github.com/zorba87) |34 hours 17 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
 
 
-<center>
+<div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=&link=https://secr.tistory.com/)](https://secr.tistory.com/) 
 [![Naver Badge](https://img.shields.io/badge/-email-brightgreen?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seolnavy@naver.com)](mailto:seolnavy@naver.com)
 
-</center>
+</div>
+
+
 <!--
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
