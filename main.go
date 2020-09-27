@@ -60,7 +60,8 @@ GraphQL:
 const (
 	latestRepoCnt    = 5
 	enableSortByName = true
-	originReadmeFile = "./HEADER.md"
+	headerFile = "./HEADER.md"
+	footerFile = "./FOOTER.md"
 	ciCommitID       = "actions-user"
 )
 
@@ -207,9 +208,19 @@ func main() {
 	}
 
 	// append to README-1.md && rename to README.md
-	f, _ := os.OpenFile(originReadmeFile, os.O_WRONLY|os.O_APPEND, 0755)
-	defer f.Close()
-	_, _ = f.WriteString(markdownTableHeaderTmpl)
-	_, _ = f.Write(buf.Bytes())
-	_ = os.Rename(originReadmeFile, "README.md")
+	header, _ := os.OpenFile(headerFile, os.O_WRONLY|os.O_APPEND, 0755)
+	footer, _ := os.OpenFile(footerFile, os.O_WRONLY|os.O_APPEND, 0755)
+	defer header.Close()
+	defer footer.Close()
+
+	_, _ = header.WriteString(markdownTableHeaderTmpl)
+	_, _ = header.Write(buf.Bytes())
+
+	footerStat, err := footer.Stat() // 파일 정보 가져오기
+	footer.Seek(0, os.SEEK_SET)
+	var footerByte = make([]byte, footerStat.Size())
+	footer.Read(footerByte)
+
+	_, _ = header.Write(footerByte)
+	_ = os.Rename(headerFile, "README.md")
 }
