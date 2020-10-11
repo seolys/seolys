@@ -58,7 +58,7 @@ GraphQL:
 */
 
 const (
-	latestRepoCnt    = 5
+	latestRepoCnt    = 7
 	enableSortByName = true
 	headerFile = "./HEADER.md"
 	footerFile = "./FOOTER.md"
@@ -144,8 +144,17 @@ func fetchLatestProjects(client *githubv4.Client) []latestProjectEntry {
 
 	// parse result
 	var result []latestProjectEntry
+	var count int = 0
 	baseTime := time.Now()
 	for _, repo := range query.Viewer.Repositories.Nodes {
+		if repo.Name == "seolys" || repo.Name == "TIL" {
+			continue
+		}
+		if count == 5 {
+			break
+		}	 
+		count = count + 1
+
 		entry := latestProjectEntry{
 			RepoName:        repo.Name,
 			RepoUrl:         repo.Url,
