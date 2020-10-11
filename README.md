@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### 🧑🏻‍💻 Web Developer.
+#### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
 [![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱　I’m learning this.
+#### 🌱&nbsp;&nbsp;I’m learning this.
 
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
 - [book](https://github.com/seolys/TIL/blob/master/book/book.md)
 - [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
 
-#### 🖥　My Recently Repositories.
+#### 🖥&nbsp;&nbsp;My Recently Repositories.
 
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [java-commute-alarm](https://github.com/seolys/java-commute-alarm) | [master](https://github.com/seolys/java-commute-alarm/tree/master) |[f5d4702](https://github.com/seolys/java-commute-alarm/commit/f5d470230144143ce3f70a510e19cd55368472bc) | [@seolys](https://github.com/seolys) |4 hours 52 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [java-spring-core-beginner](https://github.com/seolys/java-spring-core-beginner) | [master](https://github.com/seolys/java-spring-core-beginner/tree/master) |[bb8f945](https://github.com/seolys/java-spring-core-beginner/commit/bb8f945a4dea068cbad6dccbef5a51e8905269dd) | [@seolys](https://github.com/seolys) |4 hours 59 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [java-reflection](https://github.com/seolys/java-reflection) | [master](https://github.com/seolys/java-reflection/tree/master) |[c27279b](https://github.com/seolys/java-reflection/commit/c27279b268d1a043ee468ae0cc840ae7c1c3f545) | [@seolys](https://github.com/seolys) |140 hours 2 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-jwt](https://github.com/seolys/spring-jwt) | [master](https://github.com/seolys/spring-jwt/tree/master) |[ddd00c7](https://github.com/seolys/spring-jwt/commit/ddd00c7e53f6e821cfc04d01968392e10b5fc509) | [@seolys](https://github.com/seolys) |173 hours 31 minutes | ![](https://img.shields.io/badge/language-Kotlin-default.svg?style=flat-square)|
-| [preference](https://github.com/seolys/preference) | [master](https://github.com/seolys/preference/tree/master) |[49169c4](https://github.com/seolys/preference/commit/49169c40da565aefd9d7315e2717f8fb998b11a7) | [@seolys](https://github.com/seolys) |245 hours 28 minutes | ![](https://img.shields.io/badge/language-Shell-default.svg?style=flat-square)|
+| [java-commute-alarm](https://github.com/seolys/java-commute-alarm) | [master](https://github.com/seolys/java-commute-alarm/tree/master) |[f5d4702](https://github.com/seolys/java-commute-alarm/commit/f5d470230144143ce3f70a510e19cd55368472bc) | [@seolys](https://github.com/seolys) |4 hours 57 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [java-spring-core-beginner](https://github.com/seolys/java-spring-core-beginner) | [master](https://github.com/seolys/java-spring-core-beginner/tree/master) |[bb8f945](https://github.com/seolys/java-spring-core-beginner/commit/bb8f945a4dea068cbad6dccbef5a51e8905269dd) | [@seolys](https://github.com/seolys) |5 hours 5 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [java-reflection](https://github.com/seolys/java-reflection) | [master](https://github.com/seolys/java-reflection/tree/master) |[c27279b](https://github.com/seolys/java-reflection/commit/c27279b268d1a043ee468ae0cc840ae7c1c3f545) | [@seolys](https://github.com/seolys) |140 hours 7 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [spring-jwt](https://github.com/seolys/spring-jwt) | [master](https://github.com/seolys/spring-jwt/tree/master) |[ddd00c7](https://github.com/seolys/spring-jwt/commit/ddd00c7e53f6e821cfc04d01968392e10b5fc509) | [@seolys](https://github.com/seolys) |173 hours 37 minutes | ![](https://img.shields.io/badge/language-Kotlin-default.svg?style=flat-square)|
+| [preference](https://github.com/seolys/preference) | [master](https://github.com/seolys/preference/tree/master) |[49169c4](https://github.com/seolys/preference/commit/49169c40da565aefd9d7315e2717f8fb998b11a7) | [@seolys](https://github.com/seolys) |245 hours 34 minutes | ![](https://img.shields.io/badge/language-Shell-default.svg?style=flat-square)|
 
 
 <!--
