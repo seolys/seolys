@@ -2,11 +2,10 @@
 
 ### Hi there 👋
 
-#### 🧑🏻‍💻  Web Developer. 
+#### 🧑🏻‍💻 Web Developer.
 
-[![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#) 
-[![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#) 
-
+[![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
+[![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
 
 <!--
 **seolys/seolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱 I’m currently learning
+#### 🌱 I’m learning this.
+
+- [book](https://github.com/seolys/TIL/blob/master/book/book.md)
+- [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
+- [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
+
+#### 🖥 My Recently Repositories.
