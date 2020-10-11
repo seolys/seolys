@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### 🌱 I’m learning this.
 
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
-- [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
 - [book](https://github.com/seolys/TIL/blob/master/book/book.md)
+- [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
 
 #### 🖥 My Recently Repositories.
