@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### 🧑🏻‍💻 Web Developer.
+#### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
 [![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱　I’m learning this.
+#### 🌱&nbsp;&nbsp;I’m learning this.
 
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
 - [book](https://github.com/seolys/TIL/blob/master/book/book.md)
 - [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
 
-#### 🖥　My Recently Repositories.
+#### 🖥&nbsp;&nbsp;My Recently Repositories.
