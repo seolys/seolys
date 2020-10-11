@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱 I’m currently learning
+#### 🌱 I’m learning this.
+- [book](https://github.com/seolys/TIL/blob/master/book/book.md)
+- [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
+- [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
+
+#### 🖥 My Recently Repositories.
 
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
