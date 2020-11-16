@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱&nbsp;&nbsp;I’m learning this.
+#### 🌱&nbsp;&nbsp;I’m learning from this.
 
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
 - [book](https://github.com/seolys/TIL/blob/master/book/book.md)
