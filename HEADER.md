@@ -5,6 +5,7 @@
 #### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
 [![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
+[![kotlin](http://img.shields.io/badge/-kotlin-gray?style=flat-square&logo=)](#)
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
 
 <!--
