@@ -5,6 +5,7 @@
 #### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
 [![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
+[![kotlin](http://img.shields.io/badge/-kotlin-gray?style=flat-square&logo=)](#)
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
 
 <!--
@@ -33,8 +34,8 @@ Here are some ideas to get you started:
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [spring-cloud-ecommerce-discovery](https://github.com/seolys/spring-cloud-ecommerce-discovery) | [master](https://github.com/seolys/spring-cloud-ecommerce-discovery/tree/master) |[d0c892f](https://github.com/seolys/spring-cloud-ecommerce-discovery/commit/d0c892f559d82ccfc7633eac89498f29562fdce5) | [@seolys](https://github.com/seolys) |5 hours 39 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-cloud-ecommerce-config](https://github.com/seolys/spring-cloud-ecommerce-config) | [master](https://github.com/seolys/spring-cloud-ecommerce-config/tree/master) |[97f30eb](https://github.com/seolys/spring-cloud-ecommerce-config/commit/97f30ebb35fc2da43ac9efb0874175951beb14a3) | [@seolys](https://github.com/seolys) |8 hours 8 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-cloud-ecommerce-config-yaml](https://github.com/seolys/spring-cloud-ecommerce-config-yaml) | [master](https://github.com/seolys/spring-cloud-ecommerce-config-yaml/tree/master) |[c35cc9d](https://github.com/seolys/spring-cloud-ecommerce-config-yaml/commit/c35cc9d45b6a0d9e6eee9da60594ad304181e30f) | [@seolys](https://github.com/seolys) |8 hours 20 minutes | ![](https://img.shields.io/badge/language-unknown-default.svg?style=flat-square)|
+| [spring-cloud-ecommerce-config](https://github.com/seolys/spring-cloud-ecommerce-config) | [master](https://github.com/seolys/spring-cloud-ecommerce-config/tree/master) |[97f30eb](https://github.com/seolys/spring-cloud-ecommerce-config/commit/97f30ebb35fc2da43ac9efb0874175951beb14a3) | [@seolys](https://github.com/seolys) |8 hours 9 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [spring-cloud-ecommerce-config-yaml](https://github.com/seolys/spring-cloud-ecommerce-config-yaml) | [master](https://github.com/seolys/spring-cloud-ecommerce-config-yaml/tree/master) |[c35cc9d](https://github.com/seolys/spring-cloud-ecommerce-config-yaml/commit/c35cc9d45b6a0d9e6eee9da60594ad304181e30f) | [@seolys](https://github.com/seolys) |8 hours 21 minutes | ![](https://img.shields.io/badge/language-unknown-default.svg?style=flat-square)|
 | [springboot-postit](https://github.com/seolys/springboot-postit) | [master](https://github.com/seolys/springboot-postit/tree/master) |[524220d](https://github.com/seolys/springboot-postit/commit/524220d0123aae9f23faca9b984e8b125e1804eb) | [@seolys](https://github.com/seolys) |18 hours 32 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
 | [productive-box](https://github.com/seolys/productive-box) | [master](https://github.com/seolys/productive-box/tree/master) |[dc80334](https://github.com/seolys/productive-box/commit/dc8033451d7e6be50bbc8adc2f0180db6c487917) | [@github-actions[bot]](https://github.com/github-actions%5Bbot%5D) |0 hours 4 minutes | ![](https://img.shields.io/badge/language-TypeScript-default.svg?style=flat-square)|
 
