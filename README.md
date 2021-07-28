@@ -4,9 +4,11 @@
 
 #### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
-[![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
-[![kotlin](http://img.shields.io/badge/-kotlin-gray?style=flat-square&logo=)](#)
-[![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 <!--
 **seolys/seolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,11 +35,11 @@ Here are some ideas to get you started:
 
 | repo | branch | commit | author | time since last update | language |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [spring-cloud-ecommerce-api-gateway](https://github.com/seolys/spring-cloud-ecommerce-api-gateway) | [master](https://github.com/seolys/spring-cloud-ecommerce-api-gateway/tree/master) |[fb600cc](https://github.com/seolys/spring-cloud-ecommerce-api-gateway/commit/fb600cc4b6f3f87b7303da0e482b3b8d5fd763ae) | [@seolys](https://github.com/seolys) |568 hours 57 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-cloud-ecommerce-user-service](https://github.com/seolys/spring-cloud-ecommerce-user-service) | [master](https://github.com/seolys/spring-cloud-ecommerce-user-service/tree/master) |[6e65423](https://github.com/seolys/spring-cloud-ecommerce-user-service/commit/6e6542311e31cd942c2a4580af9682b539162efe) | [@seolys](https://github.com/seolys) |568 hours 57 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-cloud-ecommerce-catalog-service](https://github.com/seolys/spring-cloud-ecommerce-catalog-service) | [master](https://github.com/seolys/spring-cloud-ecommerce-catalog-service/tree/master) |[d5f00d2](https://github.com/seolys/spring-cloud-ecommerce-catalog-service/commit/d5f00d232ec340dfa6f9f949d8601c99b1ce9222) | [@seolys](https://github.com/seolys) |568 hours 58 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [spring-security](https://github.com/boro-jiwoongchoi/spring-security) | [main](https://github.com/boro-jiwoongchoi/spring-security/tree/main) |[cf4c737](https://github.com/boro-jiwoongchoi/spring-security/commit/cf4c737fa4878142ff843aa5f39cfb182e9c0ca8) | [@boro-jiwoongchoi](https://github.com/boro-jiwoongchoi) |165 hours 14 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
-| [react-blog](https://github.com/seolys/react-blog) | [master](https://github.com/seolys/react-blog/tree/master) |[aafcb7b](https://github.com/seolys/react-blog/commit/aafcb7bb5767ea5b743cdead22c26054a22fe734) | [@]() |187 hours 31 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
+| [spring-cloud-ecommerce-api-gateway](https://github.com/seolys/spring-cloud-ecommerce-api-gateway) | [master](https://github.com/seolys/spring-cloud-ecommerce-api-gateway/tree/master) |[fb600cc](https://github.com/seolys/spring-cloud-ecommerce-api-gateway/commit/fb600cc4b6f3f87b7303da0e482b3b8d5fd763ae) | [@seolys](https://github.com/seolys) |578 hours 23 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [spring-cloud-ecommerce-user-service](https://github.com/seolys/spring-cloud-ecommerce-user-service) | [master](https://github.com/seolys/spring-cloud-ecommerce-user-service/tree/master) |[6e65423](https://github.com/seolys/spring-cloud-ecommerce-user-service/commit/6e6542311e31cd942c2a4580af9682b539162efe) | [@seolys](https://github.com/seolys) |578 hours 23 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [spring-cloud-ecommerce-catalog-service](https://github.com/seolys/spring-cloud-ecommerce-catalog-service) | [master](https://github.com/seolys/spring-cloud-ecommerce-catalog-service/tree/master) |[d5f00d2](https://github.com/seolys/spring-cloud-ecommerce-catalog-service/commit/d5f00d232ec340dfa6f9f949d8601c99b1ce9222) | [@seolys](https://github.com/seolys) |578 hours 24 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [spring-security](https://github.com/boro-jiwoongchoi/spring-security) | [main](https://github.com/boro-jiwoongchoi/spring-security/tree/main) |[2a9fa21](https://github.com/boro-jiwoongchoi/spring-security/commit/2a9fa21d7d2dad475d1e80157b3508f9af4a6c2b) | [@boro-jiwoongchoi](https://github.com/boro-jiwoongchoi) |4 hours 13 minutes | ![](https://img.shields.io/badge/language-Java-default.svg?style=flat-square)|
+| [react-blog](https://github.com/seolys/react-blog) | [master](https://github.com/seolys/react-blog/tree/master) |[aafcb7b](https://github.com/seolys/react-blog/commit/aafcb7bb5767ea5b743cdead22c26054a22fe734) | [@]() |196 hours 57 minutes | ![](https://img.shields.io/badge/language-JavaScript-default.svg?style=flat-square)|
 
 
 <!--
