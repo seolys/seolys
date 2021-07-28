@@ -5,10 +5,10 @@
 #### 🧑🏻‍💻&nbsp;&nbsp;Web Developer.
 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>-->
+[![java](http://img.shields.io/badge/-java-black?style=flat-square&logo=)](#)
+[![kotlin](http://img.shields.io/badge/-kotlin-gray?style=flat-square&logo=)](#)
+[![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
+
 <!--
 **seolys/seolys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
