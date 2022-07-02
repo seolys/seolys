@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 -->
 
 #### 🌱&nbsp;&nbsp;I’m learning from this.
-
+- [Notion](https://seolnavy.notion.site/Home-f9b0154d1c6d4b6ba008ef6e4f65e709)
+<!--
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
 - [book](https://github.com/seolys/TIL/blob/master/book/book.md)
 - [youtube](https://github.com/seolys/TIL/blob/master/youtube/youtube.md)
-
+-->
 #### 🖥&nbsp;&nbsp;My Recently Repositories.
