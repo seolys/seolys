@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🌱&nbsp;&nbsp;I’m learning from this.
+#### 🌱&nbsp;&nbsp;I'm studying steadily.
 - [Notion](https://seolnavy.notion.site/Home-f9b0154d1c6d4b6ba008ef6e4f65e709)
 <!--
 - [inflearn](https://github.com/seolys/TIL/blob/master/inflearn/inflearn.md)
